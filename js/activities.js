@@ -118,3 +118,5 @@ let activities = [
     price: 0.0,
   },
 ];
+
+export { activities };
